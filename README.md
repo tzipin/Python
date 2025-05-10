@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 # Python
 homework
+=======
